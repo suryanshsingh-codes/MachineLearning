@@ -37,9 +37,8 @@ If you’d like to add new algorithms, improve documentation, or suggest project
 
 ## 📬 Contact  
 Created by **Suryansh Singh**  
-- 💼 [LinkedIn](#)  
-- 📧 Email: your-email@example.com  
-
+- 💼 LinkedIn: [https://www.linkedin.com/in/suryanshsingh-codes](https://www.linkedin.com/in/suryanshsingh-codes)  
+- 📧 Email: mrsurya0509@gmail.com 
 ---
 
 ✨ *This repository is not just about Machine Learning, but also about showcasing discipline, consistency, and growth as a developer.*  
