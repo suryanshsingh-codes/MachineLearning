@@ -2,7 +2,7 @@
 
 ## 📌 Overview  
 Welcome to the **Machine Learning** – a structured collection of ML concepts, algorithms, and projects designed to showcase practical skills, problem-solving, and model-building expertise.  
-This repo is crafted to help learners, developers, and recruiters quickly understand your ML journey and technical strengths.  
+This repo is crafted to help learners, developers, and recruiters quickly understand ML journey and technical strengths.  
 
 ---
 
