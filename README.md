@@ -2,7 +2,7 @@
 
 # 🤖 Machine Learning
 
-### *From Data to Intelligent Solutions*
+### *From Data to Intelligent Solutions* 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF6F00&center=true&vCenter=true&width=800&lines=Machine+Learning+Projects;Learning+by+Building+Real+Models;Data+Driven+Decision+Making;Preparing+for+AI+Engineering;Continuous+Learning+%26+Innovation" />
 
