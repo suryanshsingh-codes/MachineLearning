@@ -1,16 +1,20 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Machine%20Learning&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20Data%20to%20Intelligent%20Solutions&descAlignY=58"/>
+
 # 🤖 Machine Learning
 
-### *From Data to Intelligent Solutions* 
+### *From Data to Intelligent Solutions*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF6F00&center=true&vCenter=true&width=800&lines=Machine+Learning+Projects;Learning+by+Building+Real+Models;Data+Driven+Decision+Making;Preparing+for+AI+Engineering;Continuous+Learning+%26+Innovation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF6F00&center=true&vCenter=true&width=850&lines=Machine+Learning+Projects;Learning+by+Building+Real+Models;Exploratory+Data+Analysis;Preparing+for+AI+Engineering;Continuous+Learning+%26+Innovation"/>
 
-<p>
+<br>
+
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Maintained-Yes-blue?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Machine%20Learning-Portfolio-orange?style=for-the-badge"/>
-</p>
+
+<img src="https://img.shields.io/badge/Maintained-Yes-blue?style=for-the-badge"/>
 
 </div>
 
@@ -20,9 +24,9 @@
 
 Welcome to my **Machine Learning** repository.
 
-This repository documents my journey of learning and applying Machine Learning through practical projects, algorithm implementations, and real-world datasets.
+This repository documents my journey of learning Machine Learning through practical projects, data analysis, feature engineering, model development, and evaluation using real-world datasets.
 
-My focus is not only on building accurate models but also on understanding the mathematics, preprocessing data effectively, evaluating models correctly, and writing clean, reproducible code.
+The primary objective is not only to build models but also to understand the complete Machine Learning workflow—from data preprocessing to model evaluation—while writing clean, organized, and reproducible Python code.
 
 Every project in this repository represents another step toward becoming an AI Engineer.
 
@@ -34,9 +38,9 @@ Every project in this repository represents another step toward becoming an AI E
 - 📊 Exploratory Data Analysis (EDA)
 - 🧹 Data Cleaning & Preprocessing
 - ⚙️ Feature Engineering
-- 📈 Model Training & Evaluation
-- 📉 Performance Optimization
-- 📝 Well-Documented Projects
+- 📈 Regression & Classification Models
+- 📉 Model Evaluation
+- 📝 Well-Documented Jupyter Notebooks
 - 🚀 Industry-Oriented Learning
 
 ---
@@ -44,19 +48,20 @@ Every project in this repository represents another step toward becoming an AI E
 # 📚 Topics Covered
 
 | Topic | Status |
-|:-----------------------------|:------:|
-| Data Collection | ✅ |
+|:-------------------------------|:------:|
 | Data Cleaning | ✅ |
 | Exploratory Data Analysis | ✅ |
-| Feature Engineering | ✅ |
 | Data Visualization | ✅ |
+| Feature Engineering | ✅ |
+| One-Hot Encoding | ✅ |
+| Label Encoding | ✅ |
+| Feature Scaling | ✅ |
 | Train/Test Split | ✅ |
-| Regression Algorithms | ✅ |
-| Classification Algorithms | ✅ |
+| Regression | ✅ |
+| Classification | ✅ |
 | Model Evaluation | ✅ |
 | Hyperparameter Tuning | 🚧 |
 | Ensemble Learning | 🚧 |
-| Unsupervised Learning | 🚧 |
 | Deep Learning | 🚧 |
 | NLP | 🚧 |
 | Computer Vision | 🚧 |
@@ -73,11 +78,17 @@ Every project in this repository represents another step toward becoming an AI E
 <br><br>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </div>
@@ -86,29 +97,28 @@ Every project in this repository represents another step toward becoming an AI E
 
 # 🧠 Machine Learning Algorithms
 
-### Regression
+## Regression
 
 - Linear Regression
-- Polynomial Regression
 
-### Classification
+## Classification
 
 - Logistic Regression
-- Decision Tree
-- Random Forest *(Upcoming)*
-- Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
+- Decision Tree
 - Naive Bayes
+- Support Vector Machine (SVM)
 
-### Model Evaluation
+## Model Evaluation
 
+- R² Score
+- Adjusted R² Score
 - Accuracy
 - Precision
 - Recall
 - F1 Score
 - Confusion Matrix
-- ROC-AUC
-- Cross Validation
+- Classification Report
 
 ---
 
@@ -117,61 +127,77 @@ Every project in this repository represents another step toward becoming an AI E
 ```text
 MachineLearning/
 │
-├── 📁 01_Data_Preprocessing
-├── 📁 02_Exploratory_Data_Analysis
-├── 📁 03_Regression
-├── 📁 04_Classification
-├── 📁 05_Model_Evaluation
-├── 📁 06_Feature_Engineering
-├── 📁 07_Machine_Learning_Projects
 ├── 📁 Datasets
-└── 📄 README.md
+│
+├── 📓 01_Heart_Disease_Prediction.ipynb
+├── 📓 02_Ford_Car_Price_Prediction.ipynb
+├── 📓 03_Titanic_Survival_Prediction.ipynb
+│
+├── 📄 README.md
+└── 📄 requirements.txt
 ```
 
 ---
 
 # 🚀 Featured Projects
 
-- 🚢 Titanic Survival Prediction
-- ❤️ Heart Disease Prediction
-- 🏠 House Price Prediction
-- 📧 Spam Email Detection
-- 💳 Credit Card Fraud Detection *(Upcoming)*
-- 💰 Loan Approval Prediction *(Upcoming)*
-- 👥 Customer Churn Prediction *(Upcoming)*
+| Project | Description | Status |
+|----------|-------------|:------:|
+| 🚗 Ford Car Price Prediction | Linear Regression model for predicting used Ford car prices | ✅ |
+| ❤️ Heart Disease Prediction | Classification using preprocessing and feature engineering | ✅ |
+| 🚢 Titanic Survival Prediction | Comparison of Logistic Regression, KNN, Decision Tree, Naive Bayes & SVM | ✅ |
 
 ---
 
-# 🎯 Objectives
+# 📈 Repository Statistics
 
-- Build production-ready Machine Learning projects
-- Strengthen mathematical intuition behind algorithms
-- Improve model performance through experimentation
-- Learn industry-standard ML workflows
-- Prepare for AI Engineering roles
+<div align="center">
+
+![Repo Size](https://img.shields.io/github/repo-size/suryanshsingh-codes/MachineLearning?style=for-the-badge)
+
+![Last Commit](https://img.shields.io/github/last-commit/suryanshsingh-codes/MachineLearning?style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/suryanshsingh-codes/MachineLearning?style=for-the-badge)
+
+![Forks](https://img.shields.io/github/forks/suryanshsingh-codes/MachineLearning?style=for-the-badge)
+
+</div>
+
+---
+
+# 🎯 Repository Goals
+
+- Build 20+ Machine Learning Projects
+- Learn Deep Learning
+- Build End-to-End AI Applications
+- Learn NLP
+- Learn Computer Vision
+- Deploy ML Models
+- Improve Model Performance
+- Write Production-Quality Code
 
 ---
 
 # 💡 Why This Repository?
 
-Machine Learning is more than building models.
+Machine Learning is more than training models.
 
-This repository reflects my commitment to understanding data, developing reliable ML solutions, and continuously improving my engineering skills through practical implementation and experimentation.
+This repository reflects my commitment to understanding data, experimenting with algorithms, improving model performance, and following industry-standard Machine Learning workflows.
 
-Every project is built with the goal of learning something new and moving one step closer to becoming an AI Engineer.
+Each notebook represents practical learning through implementation and continuous improvement.
 
 ---
 
 # 🤝 Contributions
 
-Contributions, ideas, and suggestions are always welcome.
+Suggestions and feedback are always welcome.
 
-Feel free to:
+If you found this repository useful:
 
 - ⭐ Star this repository
-- 🍴 Fork the repository
-- 🐞 Report Issues
-- 🔥 Submit Pull Requests
+- 🍴 Fork it
+- 🐞 Report issues
+- 🚀 Share improvements
 
 ---
 
@@ -180,11 +206,15 @@ Feel free to:
 <div align="center">
 
 <a href="https://linkedin.com/in/suryanshsingh-codes">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
-<a href="mailto: suryanshsingh.codes@gmail.com">
+<a href="mailto:suryanshsingh.codes@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </div>
@@ -193,7 +223,7 @@ Feel free to:
 
 <div align="center">
 
-### ⭐ If you found this repository useful, consider giving it a star!
+## ⭐ If you found this repository useful, consider giving it a star!
 
 ### 🚀 Learning • Building • Improving • Innovating
 
